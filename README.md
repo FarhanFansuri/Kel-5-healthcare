@@ -16,15 +16,15 @@ Berikut adalah anggota tim yang berkontribusi pada proyek ini:
 
 - **Nama Lengkap**: [Dwi Aryani](https://github.com/dwiaryani2)
   - Peran: Member tim 5
-  - Bio: Deskripsikan pengalaman dan keahlian anggota tim dalam pengembangan front-end.
+  - Bio: Tuliskan sedikit tentang latar belakang dan minat anggota tim ini terkait dengan proyek.
 
 - **Nama Lengkap**: [Imam Bari Setiawan](https://github.com/barisetiawan51)
   - Peran: Member tim 5
-  - Bio: Sertakan pengetahuan dan keterampilan yang dimiliki anggota tim dalam pengembangan back-end.
+  - Bio: Tuliskan sedikit tentang latar belakang dan minat anggota tim ini terkait dengan proyek.
 
 - **Nama Lengkap**: [Mochammad Farhan Fansuri](https://github.com/FarhanFansuri)
   - Peran: Member tim 5
-  - Bio: Ceritakan tentang latar belakang analisis data dan kontribusi anggota tim terhadap proyek.
+  - Bio: Tuliskan sedikit tentang latar belakang dan minat anggota tim ini terkait dengan proyek.
 - **Nama Lengkap**: [Nilna Sa'adatur Rohmah](https://github.com/Nilna12)
   - Peran: Member tim 5
   - Bio: Ceritakan tentang latar belakang analisis data dan kontribusi anggota tim terhadap proyek.
