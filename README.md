@@ -1,29 +1,32 @@
 # Healthcare Project
 
-Selamat datang di repositori proyek Healthcare kami. Proyek ini bertujuan untuk mengembangkan solusi perangkat lunak yang berfokus pada penyediaan layanan kesehatan yang lebih baik dan efisien.
+Selamat datang di repositori proyek Healthcare kami. Proyek ini bertujuan untuk mengembangkan solusi perangkat lunak yang berfokus pada penyediaan layanan informasi dan penjualan online obat herbal yang lebih baik dan efisien.
 
 ## Deskripsi
 
-Proyek kami bertujuan untuk mengembangkan sebuah platform yang dapat menghubungkan pasien dengan penyedia layanan kesehatan, memungkinkan mereka untuk membuat janji, mengakses catatan medis, dan mendapatkan informasi kesehatan penting. Kami berharap bahwa platform ini dapat meningkatkan aksesibilitas layanan kesehatan, meningkatkan komunikasi antara pasien dan dokter, dan pada gilirannya, meningkatkan kualitas hidup.
+Proyek kami bertujuan untuk mengembangkan sebuah platform yang dapat menghubungkan user dengan penyedia layanan informasi dan penjualan online mengenai obat herbal, memungkinkan mereka untuk menggali informasi mengenai obat herbal, melakukan transaksi online produk obat herbal, dan mendapatkan informasi kesehatan penting lainya. dengan bantuan AI Kami berharap bahwa platform ini dapat meningkatkan aksesibilitas layanan kesehatan, meningkatkan pemahaman dan transaksi masyarakat mengenai obat herbal, dan pada gilirannya, meningkatkan kualitas hidup.
 
 ## Anggota Tim
 
 Berikut adalah anggota tim yang berkontribusi pada proyek ini:
 
-- **Nama Lengkap**: [Nama Lengkap Anggota Tim 1](https://github.com/username-tim-1)
-  - Peran: Project Manager
+- **Nama Lengkap**: [Annisah Fithri](https://github.com/annisahfith)
+  - Peran: Member tim 5
   - Bio: Tuliskan sedikit tentang latar belakang dan minat anggota tim ini terkait dengan proyek.
 
-- **Nama Lengkap**: [Nama Lengkap Anggota Tim 2](https://github.com/username-tim-2)
-  - Peran: Frontend Developer
-  - Bio: Deskripsikan pengalaman dan keahlian anggota tim dalam pengembangan front-end.
+- **Nama Lengkap**: [Dwi Aryani](https://github.com/dwiaryani2)
+  - Peran: Member tim 5
+  - Bio: Tuliskan sedikit tentang latar belakang dan minat anggota tim ini terkait dengan proyek.
 
-- **Nama Lengkap**: [Nama Lengkap Anggota Tim 3](https://github.com/username-tim-3)
-  - Peran: Backend Developer
-  - Bio: Sertakan pengetahuan dan keterampilan yang dimiliki anggota tim dalam pengembangan back-end.
+- **Nama Lengkap**: [Imam Bari Setiawan](https://github.com/barisetiawan51)
+  - Peran: Member tim 5
+  - Bio: Tuliskan sedikit tentang latar belakang dan minat anggota tim ini terkait dengan proyek.
 
-- **Nama Lengkap**: [Nama Lengkap Anggota Tim 4](https://github.com/username-tim-4)
-  - Peran: Data Scientist
+- **Nama Lengkap**: [Mochammad Farhan Fansuri](https://github.com/FarhanFansuri)
+  - Peran: Member tim 5
+  - Bio: Tuliskan sedikit tentang latar belakang dan minat anggota tim ini terkait dengan proyek.
+- **Nama Lengkap**: [Nilna Sa'adatur Rohmah](https://github.com/Nilna12)
+  - Peran: Member tim 5
   - Bio: Ceritakan tentang latar belakang analisis data dan kontribusi anggota tim terhadap proyek.
 
 ## Cara Berkontribusi
