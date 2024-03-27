@@ -20,23 +20,28 @@ Berikut adalah anggota tim yang berkontribusi pada proyek ini:
 
 - **Nama Lengkap**: [Annisah Fithri](https://github.com/annisahfith)
   - Peran: Member tim 5
-  - Sosial media : Tuliskan sosial medianya
+  - Sosial media :
+    - Linkedin : Masukan linknya
 
 - **Nama Lengkap**: [Dwi Aryani](https://github.com/dwiaryani2)
   - Peran: Member tim 5
-  - Sosial media : Tuliskan sosial medianya
+  - Sosial media :
+    - Linkedin : Masukan linknya
 
 - **Nama Lengkap**: [Imam Bari Setiawan](https://github.com/barisetiawan51)
   - Peran: Member tim 5
-  - Sosial media : Tuliskan sosial medianya
+  - Sosial media :
+    - Linkedin : Masukan linknya
 
 - **Nama Lengkap**: [Mochammad Farhan Fansuri](https://github.com/FarhanFansuri)
   - Peran: Member tim 5
   - Sosial media :
     - Linkedin : https://www.linkedin.com/in/farhanfansuri2002/
+      
 - **Nama Lengkap**: [Nilna Sa'adatur Rohmah](https://github.com/Nilna12)
   - Peran: Member tim 5
-  - Sosial media : Tuliskan sosial medianya
+  - Sosial media :
+    - Linkedin : Masukan linknya
 
 ## Cara Berkontribusi
 
