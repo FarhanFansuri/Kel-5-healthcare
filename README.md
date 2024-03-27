@@ -6,6 +6,10 @@ Selamat datang di repositori proyek Healthcare kami. Proyek ini bertujuan untuk 
 
 Proyek kami bertujuan untuk mengembangkan sebuah platform yang dapat menghubungkan user dengan penyedia layanan informasi dan penjualan online mengenai obat herbal, memungkinkan mereka untuk menggali informasi mengenai obat herbal, melakukan transaksi online produk obat herbal, dan mendapatkan informasi kesehatan penting lainya. dengan bantuan AI Kami berharap bahwa platform ini dapat meningkatkan aksesibilitas layanan kesehatan, meningkatkan pemahaman dan transaksi masyarakat mengenai obat herbal, dan pada gilirannya, meningkatkan kualitas hidup.
 
+## Struktur Repository
+- **Intro-to-Pytoh**
+- **visualization**
+
 ## Anggota Tim
 
 Berikut adalah anggota tim yang berkontribusi pada proyek ini:
