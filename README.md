@@ -8,8 +8,11 @@ Proyek kami bertujuan untuk mengembangkan sebuah platform yang dapat menghubungk
 
 ## Struktur Repository
 - **Intro-to-Python**
-- Berisi tutorial dan pengerjaan project sebagai bagian dari pembelajaran dasar dasar python
+  - Berisi tutorial dan pengerjaan project sebagai bagian dari pembelajaran dasar dasar python
+  - tools : Google Colab, Jupyter Notebook
 - **visualization**
+  - Berisi pengerjaan project dan bagian dari pembelajaran visualisasi data  dengan python
+  - tools : Google Colab, Jupyter Notebook
 
 ## Anggota Tim
 
