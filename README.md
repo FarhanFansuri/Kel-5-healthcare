@@ -13,7 +13,13 @@ Proyek kami bertujuan untuk mengembangkan sebuah platform yang dapat menghubungk
 - **visualization**
   - Berisi pengerjaan project dan bagian dari pembelajaran visualisasi data  dengan python
   - tools : Google Colab, Jupyter Notebook
-
+- **datasets**
+  - Berisi seluruh datasets yang akan digunakan dalam pengerjaan project 
+  - tools : Google Colab, Jupyter Notebook
+- **Intro-to-Machine-Learning**
+  - Berisi pengerjaan project dan bagian dari pembelajaran Machine Learning
+  - tools : Google Colab, Jupyter Notebook
+    
 ## Anggota Tim
 
 Berikut adalah anggota tim yang berkontribusi pada proyek ini:
