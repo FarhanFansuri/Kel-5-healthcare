@@ -31,7 +31,7 @@ Berikut adalah anggota tim yang berkontribusi pada proyek ini:
 - **Nama Lengkap**: [Imam Bari Setiawan](https://github.com/barisetiawan51)
   - Peran: Member tim 5
   - Sosial media :
-    - Linkedin : Masukan linknya
+    - Linkedin : https://www.linkedin.com/in/barisetiawan51
 
 - **Nama Lengkap**: [Mochammad Farhan Fansuri](https://github.com/FarhanFansuri)
   - Peran: Member tim 5
